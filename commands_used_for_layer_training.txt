@@ -1,0 +1,125 @@
+awk '1;!(NR%51){print "\t";}' output1.txt > kha.train.training_text
+awk '1;!(NR%51){print "\t";}' output-eval.txt > kha.eval.training_text
+
+#!/bin/bash
+#--------------------------------------------
+cd ~/tesstutorial
+
+ rm -rf ~/tesstutorial/khaeval
+ bash ~/tesseract/src/training/tesstrain.sh \
+ --fonts_dir /usr/share/fonts \
+ --lang kha \
+ --linedata_only \
+ --noextract_font_properties \
+ --langdata_dir /home/script/tesseract/tesstutorial/langdata \
+ --tessdata_dir /home/script/tesseract/tessdata_best  \
+ --workspace_dir /tmp \
+ --fontlist \
+ "Liberation Serif" \
+ --training_text /home/script/tesseract/tesstutorial/langdata/kha/kha.eval.training_text \
+ --exposures "0" \
+ --save_box_tiff \
+ --maxpages 0 \
+ --output_dir /home/script/tesseract/tesstutorial/khaeval
+  
+  rm -rf ~/tesstutorial/khatrain
+  bash ~/tesseract/src/training/tesstrain.sh \
+  --fonts_dir /usr/share/fonts \
+  --lang kha \
+  --linedata_only \
+  --noextract_font_properties \
+  --langdata_dir /home/script/tesseract/tesstutorial/langdata \
+  --tessdata_dir /home/script/tesseract/tessdata_best  \
+  --workspace_dir /tmp \
+  --fontlist \
+  "Liberation Serif" \
+  --training_text /home/script/tesseract/tesstutorial/langdata/kha/kha.train.training_text \
+  --exposures "0" \
+  --save_box_tiff \
+  --maxpages 0 \
+  --output_dir /home/script/tesseract/tesstutorial/khatrain
+
+ cat \
+ /home/script/tesseract/tesstutorial/khatrain/kha.training_files.txt  \
+ > /home/script/tesseract/tesstutorial/khatrain/all.training_files.txt 
+ 
+ ## eng.unicharset from langdata has all the characters required so it is included while merging unicharsets
+ merge_unicharsets \
+ ~/tesseract/tesstutorial/khatrain/kha/kha.unicharset  \
+ ~/tesseract/tesstutorial/langdata/kha/kha.unicharset  \
+ ~/tesseract/tesstutorial/khaeval/eng/kha.unicharset  \
+ ~/tesseract/tesstutorial/khatrain/eng/all.unicharset  
+ 
+ combine_lang_model \
+ --input_unicharset ~/tesseract/tesstutorial/khatrain/kha/all.unicharset   \
+ --script_dir /home/script/tesseract/tesstutorial/langdata \
+ --output_dir /home/script/tesseract/tesstutorial/khatrain \
+ --lang kha \
+ --version_str "udaycruise2903:kha:[Lfx192]:`date +%Y%m%d`:1.0"  
+ 
+ rm -rf ~/tesstutorial/khalayer
+ mkdir ~/tesseract/tesstutorial/khalayer 
+ 
+# using brah from a previous run
+ combine_tessdata -e ~/tesseract/tessdata/best/eng.traineddata ~/tesseract/tesstutorial/khalayer/kha.lstm
+
+#to start lstm training 
+~/tesseract/src/training/lstmtraining \
+--continue_from  ~/tesseract/tesstutorial/khalayer/kha.lstm \
+--append_index 5 --net_spec '[Lfx192 O1c1]' \
+--traineddata   ~/tesseract/tesstutorial/khatrain/kha/kha.traineddata \
+--max_iterations 300000 \
+--debug_interval 0 \
+--train_listfile ~/tesseract/tesstutorial/khatrain/all.training_files.txt \
+--eval_listfile ~/tesseract/tesstutorial/khaeval/kha.training_files.txt \
+--model_output  ~/tesseract/tesstutorial/khalayer/khalayer &> /home/script/tesseract/tesstutorial/khalayer/basetrain.log
+
+#to continue training from checkpoint
+~/tesseract/src/lstmtraining \
+  --traineddata ~/tesseract/tesstutorial/khatrain/kha/kha.traineddata \
+  --train_listfile ~/tesseract/tesstutorial/khatraineng/all.training_files.txt \
+  --eval_listfile ~/tesseract/tesstutorial/khaeval/kha.training_files.txt \
+  --continue_from ~/tesseract/tesstutorial/khalayer/khalayer.checkpoint \
+  --model_output ~/tesseract/tesstutorial/khalayer/khalayer &> /home/script/tesseract/tesstutorial/khalayer/basetrain2.log
+
+#to run evaluation on full training set
+~/tesseract/src/training/lstmeval --model ~/tesseract/tesstutorial/khalayer/khalayer_checkpoint \
+  --traineddata ~/tesseract/tesstutorial/khatrain/kha/kha.traineddata \
+  --eval_listfile ~/tesseract/tesstutorial/khaeval/kha.training_files.txt &> /home/script/tesseract/tesstutorial/khalayer/eval1-khalayer_checkpoint.log
+
+~/tesseract/src/training/lstmtraining  \
+--stop_training \
+--continue_from ~/tesseract/tesstutorial/khalayer/khalayer_checkpoint \
+--traineddata   ~/tesseract/tesstutorial/khatrain/kha/kha.traineddata \
+--model_output ~/tesseract/tesstutorial/khalayer/kha.traineddata 
+
+         ****
+cd ~/tesstutorial/langdata/brah/test
+
+tesseract  tam.Adinatha_Tamil_Brahmi.exp0.page1.png  tam.Adinatha_Tamil_Brahmi.exp0.page1.png.brahmilayer -l brahmilayer --tessdata-dir ../../../brahmilayer
+tesseract  dhamma.png  dhamma.brahmilayer -l brahmilayer --tessdata-dir ../../../brahmilayer
+         ****
+
+preparing testsets
+
+convert -density 300 ~/Downloads/2015.464836.Xii-Khasi_text.pdf output%3d.png
+convert -density 300 ~/Documents/2015.ka_dienshonhi/2015.464423.Ka-Dienshonhia-Khasi-khasi-Dictiinary-Ed-1st.pdf ~/Documents/2015.ka_dienshonhi/output.png 
+
+
+tesseract ~/tesseract/test/lang-files/kha-textbooks/p11-ka_jingrioi.png ~/tesseract/test/lang-files/kha-textbooks/p11-ka_jingrioi-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin txt
+tesseract ~/tesseract/test/lang-files/kha-textbooks/p14-ka_jingrioi.png ~/tesseract/test/lang-files/kha-textbooks/p14-ka_jingrioi-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin txt
+tesseract ~/tesseract/test/lang-files/kha-textbooks/p22-ka_jingrioi.png ~/tesseract/test/lang-files/kha-textbooks/p22-ka_jingrioi-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin txt
+tesseract ~/tesseract/test/lang-files/kha-textbooks/p23-ka_jingrioi.png ~/tesseract/test/lang-files/kha-textbooks/p23-ka_jingrioi-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin txt
+tesseract ~/tesseract/test/lang-files/kha-textbooks/p32-ka_jingrioi.png ~/tesseract/test/lang-files/kha-textbooks/p32-ka_jingrioi-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin txt
+
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page11-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page11-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page12-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page12-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page14-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page14-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page15-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page15-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page21-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page21-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page25-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page25-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page26-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page26-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page31-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page31-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page36-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page36-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page71-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page71-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
+tesseract ~/tesseract/test/lang-files/kha-textbooks/page78-Xii.png ~/tesseract/test/lang-files/kha-textbooks/page78-Xii-gt --tessdata-dir ~/tesseract/tessdata/best/script/ -l Latin 
