@@ -18,4 +18,3 @@ UNLV test result: CER = 4.3 (academic textbooks), CER = ~76.5 (dictionary)
   
 ## for more info ##
   refer wiki
-
