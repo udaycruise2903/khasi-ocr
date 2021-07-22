@@ -7,8 +7,14 @@ output model: kha.traineddata(fast model)
 fonts: Liberation Serif
 network spec: [1,36,0,1[C3,3Ft16]Mp3,3Lfys64Lfx96Lrx96Lfx192Fc128]
 lstmeval result: CER = 0.08, WER = 0.19
-UNLV test result: CER = 4.3 (academic textbooks), CER = 76.5 (dictionary)
-<pre>
+UNLV test result: CER = 4.3 (academic textbooks), CER = ~76.5 (dictionary)
+</pre>
 
 ## Improvements ##
-
+<ol>
+  <li>1. edit the groundtruth files manually with reference to images.
+  <li>2. produce best model of traineddata. use (network spec - Lfx512 O1c1) in lstm training 
+</ol>
+  
+## for more info ##
+  refer wiki
