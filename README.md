@@ -12,8 +12,8 @@ UNLV test result: CER = 4.3 (academic textbooks), CER = ~76.5 (dictionary)
 
 ## Improvements ##
 <ol>
-  <li>1. edit the groundtruth files manually with reference to images.
-  <li>2. produce best model of traineddata. use (network spec - Lfx512 O1c1) in lstm training 
+  <li> edit the groundtruth files manually with reference to images.
+  <li> produce best model of traineddata. use (network spec - Lfx512 O1c1) in lstm training 
 </ol>
   
 ## for more info ##
