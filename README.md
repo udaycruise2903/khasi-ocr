@@ -17,4 +17,4 @@ UNLV test result: CER = 4.3 (academic textbooks), CER = ~76.5 (dictionary)
 </ol>
   
 ## for more info ##
-  refer wiki
+  refer wiki - <a href="https://github.com/udaycruise2903/khasi-ocr/wiki/khasi-ocr"> khasi-ocr </a>
