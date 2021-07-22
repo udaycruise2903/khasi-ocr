@@ -1,0 +1,746 @@
+
+Testing ../tessdata_fast/script and Latin on set kha-dictionary in directory /home/script/lang-files/kha-dictionary to ./langtests/results/kha-dictionary
+
+/home/script/lang-files/kha-dictionary/output-110
+Moutput-110 14.99
+/home/script/lang-files/kha-dictionary/output-142
+Moutput-142 13.52
+/home/script/lang-files/kha-dictionary/output-185
+Moutput-185 14.75
+/home/script/lang-files/kha-dictionary/output-192
+Moutput-192 15.38
+/home/script/lang-files/kha-dictionary/output-220
+Moutput-220 12.52
+/home/script/lang-files/kha-dictionary/output-23
+Moutput-23 12.19
+/home/script/lang-files/kha-dictionary/output-242
+Moutput-242 12.05
+/home/script/lang-files/kha-dictionary/output-281
+Moutput-281 10.15
+/home/script/lang-files/kha-dictionary/output-282
+Moutput-282 13.52
+/home/script/lang-files/kha-dictionary/output-336
+Moutput-336 12.37
+/home/script/lang-files/kha-dictionary/output-351
+Moutput-351 13.88
+/home/script/lang-files/kha-dictionary/output-35
+Moutput-35 14.37
+/home/script/lang-files/kha-dictionary/output-384
+Moutput-384 14.79
+/home/script/lang-files/kha-dictionary/output-388
+Moutput-388 14.17
+/home/script/lang-files/kha-dictionary/output-392
+Moutput-392 13.80
+/home/script/lang-files/kha-dictionary/output-400
+Moutput-400 14.20
+/home/script/lang-files/kha-dictionary/output-420
+Moutput-420 12.02
+/home/script/lang-files/kha-dictionary/output-425
+Moutput-425 14.85
+/home/script/lang-files/kha-dictionary/output-460
+Moutput-460 15.06
+/home/script/lang-files/kha-dictionary/output-67
+Moutput-67 16.29
+Counting on set kha-dictionary in directory /home/script/lang-files/kha-dictionary to langtests/results/kha-dictionary
+/home/script/lang-files/kha-dictionary/output-110
+/home/script/lang-files/kha-dictionary/output-142
+/home/script/lang-files/kha-dictionary/output-185
+/home/script/lang-files/kha-dictionary/output-192
+/home/script/lang-files/kha-dictionary/output-220
+/home/script/lang-files/kha-dictionary/output-23
+/home/script/lang-files/kha-dictionary/output-242
+/home/script/lang-files/kha-dictionary/output-281
+/home/script/lang-files/kha-dictionary/output-282
+/home/script/lang-files/kha-dictionary/output-336
+/home/script/lang-files/kha-dictionary/output-351
+/home/script/lang-files/kha-dictionary/output-35
+/home/script/lang-files/kha-dictionary/output-384
+/home/script/lang-files/kha-dictionary/output-388
+/home/script/lang-files/kha-dictionary/output-392
+/home/script/lang-files/kha-dictionary/output-400
+/home/script/lang-files/kha-dictionary/output-420
+/home/script/lang-files/kha-dictionary/output-425
+/home/script/lang-files/kha-dictionary/output-460
+/home/script/lang-files/kha-dictionary/output-67
+
+Testing ../tessdata_fast/script and Latin on set kha-textbooks in directory /home/script/lang-files/kha-textbooks to ./langtests/results/kha-textbooks
+
+/home/script/lang-files/kha-textbooks/p11-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp11-ka_jingrioi 8.49
+/home/script/lang-files/kha-textbooks/p14-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp14-ka_jingrioi 5.49
+/home/script/lang-files/kha-textbooks/p22-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp22-ka_jingrioi 8.61
+/home/script/lang-files/kha-textbooks/p23-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp23-ka_jingrioi 9.61
+/home/script/lang-files/kha-textbooks/p32-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp32-ka_jingrioi 8.13
+/home/script/lang-files/kha-textbooks/page11-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage11-Xii 11.22
+/home/script/lang-files/kha-textbooks/page12-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage12-Xii 7.81
+/home/script/lang-files/kha-textbooks/page14-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage14-Xii 7.32
+/home/script/lang-files/kha-textbooks/page15-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage15-Xii 6.73
+/home/script/lang-files/kha-textbooks/page21-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage21-Xii 6.35
+/home/script/lang-files/kha-textbooks/page25-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage25-Xii 9.39
+/home/script/lang-files/kha-textbooks/page26-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage26-Xii 6.82
+/home/script/lang-files/kha-textbooks/page31-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage31-Xii 7.93
+/home/script/lang-files/kha-textbooks/page36-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage36-Xii 7.04
+/home/script/lang-files/kha-textbooks/page71-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage71-Xii 9.32
+/home/script/lang-files/kha-textbooks/page78-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage78-Xii 10.86
+Counting on set kha-textbooks in directory /home/script/lang-files/kha-textbooks to langtests/results/kha-textbooks
+/home/script/lang-files/kha-textbooks/p11-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p14-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p22-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p23-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p32-ka_jingrioi
+/home/script/lang-files/kha-textbooks/page11-Xii
+/home/script/lang-files/kha-textbooks/page12-Xii
+/home/script/lang-files/kha-textbooks/page14-Xii
+/home/script/lang-files/kha-textbooks/page15-Xii
+/home/script/lang-files/kha-textbooks/page21-Xii
+/home/script/lang-files/kha-textbooks/page25-Xii
+/home/script/lang-files/kha-textbooks/page26-Xii
+/home/script/lang-files/kha-textbooks/page31-Xii
+/home/script/lang-files/kha-textbooks/page36-Xii
+/home/script/lang-files/kha-textbooks/page71-Xii
+/home/script/lang-files/kha-textbooks/page78-Xii
+RELEASE		TestSet		CharErrors	Accuracy	WordErrors	Accuracy	NonStopWErrors	Accuracy	TimeTaken
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													0.00s
+4_fast_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													310.78s
+4_fast_Latin	kha-textbooks													134.13s
+4_best_int_Latin	kha-dictionary													413.00s
+4_best_int_Latin	kha-textbooks													197.94s
+4_best_Latin	kha-dictionary	27052		25.43%		3232		51.13%		2108		47.80		1162.20s
+4_best_Latin	kha-textbooks	141		99.24%		21		99.44%		20		98.89		524.73s
+4_fast_Latin	kha-dictionary													153.97s
+4_fast_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													12.76s
+4_fast_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary	27165		25.11%		3365		49.12%		2217		45.10		274.87s
+4_fast_Latin	kha-textbooks	412		97.77%		207		94.52%		173		90.43		131.12s
+
+Testing ../tessdata/script and Latin on set kha-dictionary in directory /home/script/lang-files/kha-dictionary to ./langtests/results/kha-dictionary
+
+/home/script/lang-files/kha-dictionary/output-110
+Moutput-110 18.56
+/home/script/lang-files/kha-dictionary/output-142
+Moutput-142 16.98
+/home/script/lang-files/kha-dictionary/output-185
+Moutput-185 18.06
+/home/script/lang-files/kha-dictionary/output-192
+Moutput-192 20.45
+/home/script/lang-files/kha-dictionary/output-220
+Moutput-220 18.13
+/home/script/lang-files/kha-dictionary/output-23
+Moutput-23 17.32
+/home/script/lang-files/kha-dictionary/output-242
+Moutput-242 19.02
+/home/script/lang-files/kha-dictionary/output-281
+Moutput-281 15.10
+/home/script/lang-files/kha-dictionary/output-282
+Moutput-282 19.90
+/home/script/lang-files/kha-dictionary/output-336
+Moutput-336 17.91
+/home/script/lang-files/kha-dictionary/output-351
+Moutput-351 21.56
+/home/script/lang-files/kha-dictionary/output-35
+Moutput-35 19.46
+/home/script/lang-files/kha-dictionary/output-384
+Moutput-384 19.17
+/home/script/lang-files/kha-dictionary/output-388
+Moutput-388 21.76
+/home/script/lang-files/kha-dictionary/output-392
+Moutput-392 19.69
+/home/script/lang-files/kha-dictionary/output-400
+Moutput-400 21.81
+/home/script/lang-files/kha-dictionary/output-420
+Moutput-420 16.90
+/home/script/lang-files/kha-dictionary/output-425
+Moutput-425 19.00
+/home/script/lang-files/kha-dictionary/output-460
+Moutput-460 17.29
+/home/script/lang-files/kha-dictionary/output-67
+Moutput-67 19.55
+Counting on set kha-dictionary in directory /home/script/lang-files/kha-dictionary to langtests/results/kha-dictionary
+/home/script/lang-files/kha-dictionary/output-110
+/home/script/lang-files/kha-dictionary/output-142
+/home/script/lang-files/kha-dictionary/output-185
+/home/script/lang-files/kha-dictionary/output-192
+/home/script/lang-files/kha-dictionary/output-220
+/home/script/lang-files/kha-dictionary/output-23
+/home/script/lang-files/kha-dictionary/output-242
+/home/script/lang-files/kha-dictionary/output-281
+/home/script/lang-files/kha-dictionary/output-282
+/home/script/lang-files/kha-dictionary/output-336
+/home/script/lang-files/kha-dictionary/output-351
+/home/script/lang-files/kha-dictionary/output-35
+/home/script/lang-files/kha-dictionary/output-384
+/home/script/lang-files/kha-dictionary/output-388
+/home/script/lang-files/kha-dictionary/output-392
+/home/script/lang-files/kha-dictionary/output-400
+/home/script/lang-files/kha-dictionary/output-420
+/home/script/lang-files/kha-dictionary/output-425
+/home/script/lang-files/kha-dictionary/output-460
+/home/script/lang-files/kha-dictionary/output-67
+
+Testing ../tessdata/script and Latin on set kha-textbooks in directory /home/script/lang-files/kha-textbooks to ./langtests/results/kha-textbooks
+
+/home/script/lang-files/kha-textbooks/p11-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp11-ka_jingrioi 12.64
+/home/script/lang-files/kha-textbooks/p14-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp14-ka_jingrioi 7.07
+/home/script/lang-files/kha-textbooks/p22-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp22-ka_jingrioi 13.06
+/home/script/lang-files/kha-textbooks/p23-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp23-ka_jingrioi 12.06
+/home/script/lang-files/kha-textbooks/p32-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp32-ka_jingrioi 12.38
+/home/script/lang-files/kha-textbooks/page11-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage11-Xii 10.84
+/home/script/lang-files/kha-textbooks/page12-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage12-Xii 9.95
+/home/script/lang-files/kha-textbooks/page14-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage14-Xii 10.43
+/home/script/lang-files/kha-textbooks/page15-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage15-Xii 9.99
+/home/script/lang-files/kha-textbooks/page21-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage21-Xii 9.68
+/home/script/lang-files/kha-textbooks/page25-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage25-Xii 10.01
+/home/script/lang-files/kha-textbooks/page26-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage26-Xii 8.87
+/home/script/lang-files/kha-textbooks/page31-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage31-Xii 11.02
+/home/script/lang-files/kha-textbooks/page36-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage36-Xii 12.14
+/home/script/lang-files/kha-textbooks/page71-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage71-Xii 15.53
+/home/script/lang-files/kha-textbooks/page78-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage78-Xii 16.58
+Counting on set kha-textbooks in directory /home/script/lang-files/kha-textbooks to langtests/results/kha-textbooks
+/home/script/lang-files/kha-textbooks/p11-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p14-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p22-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p23-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p32-ka_jingrioi
+/home/script/lang-files/kha-textbooks/page11-Xii
+/home/script/lang-files/kha-textbooks/page12-Xii
+/home/script/lang-files/kha-textbooks/page14-Xii
+/home/script/lang-files/kha-textbooks/page15-Xii
+/home/script/lang-files/kha-textbooks/page21-Xii
+/home/script/lang-files/kha-textbooks/page25-Xii
+/home/script/lang-files/kha-textbooks/page26-Xii
+/home/script/lang-files/kha-textbooks/page31-Xii
+/home/script/lang-files/kha-textbooks/page36-Xii
+/home/script/lang-files/kha-textbooks/page71-Xii
+/home/script/lang-files/kha-textbooks/page78-Xii
+RELEASE		TestSet		CharErrors	Accuracy	WordErrors	Accuracy	NonStopWErrors	Accuracy	TimeTaken
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													0.00s
+4_fast_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													310.78s
+4_fast_Latin	kha-textbooks													134.13s
+4_best_int_Latin	kha-dictionary													413.00s
+4_best_int_Latin	kha-textbooks													197.94s
+4_best_Latin	kha-dictionary	27052		25.43%		3232		51.13%		2108		47.80		1162.20s
+4_best_Latin	kha-textbooks	141		99.24%		21		99.44%		20		98.89		524.73s
+4_fast_Latin	kha-dictionary													153.97s
+4_fast_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													12.76s
+4_fast_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary	27165		25.11%		3365		49.12%		2217		45.10		274.87s
+4_fast_Latin	kha-textbooks	412		97.77%		207		94.52%		173		90.43		131.12s
+4_best_int_Latin	kha-dictionary	27097		25.30%		3298		50.14%		2160		46.51		377.62s
+4_best_int_Latin	kha-textbooks	185		99.00%		55		98.54%		48		97.35		182.25s
+
+Testing ../tessdata_best/script and Latin on set kha-dictionary in directory /home/script/lang-files/kha-dictionary to ./langtests/results/kha-dictionary
+
+/home/script/lang-files/kha-dictionary/output-110
+Moutput-110 76.58
+/home/script/lang-files/kha-dictionary/output-142
+Moutput-142 71.78
+/home/script/lang-files/kha-dictionary/output-185
+Moutput-185 68.68
+/home/script/lang-files/kha-dictionary/output-192
+Moutput-192 79.59
+/home/script/lang-files/kha-dictionary/output-220
+Moutput-220 78.42
+/home/script/lang-files/kha-dictionary/output-23
+Moutput-23 64.77
+/home/script/lang-files/kha-dictionary/output-242
+Moutput-242 62.47
+/home/script/lang-files/kha-dictionary/output-281
+Moutput-281 65.65
+/home/script/lang-files/kha-dictionary/output-282
+Moutput-282 79.34
+/home/script/lang-files/kha-dictionary/output-336
+Moutput-336 72.34
+/home/script/lang-files/kha-dictionary/output-351
+Moutput-351 82.69
+/home/script/lang-files/kha-dictionary/output-35
+Moutput-35 73.40
+/home/script/lang-files/kha-dictionary/output-384
+Moutput-384 70.81
+/home/script/lang-files/kha-dictionary/output-388
+Moutput-388 75.33
+/home/script/lang-files/kha-dictionary/output-392
+Moutput-392 78.20
+/home/script/lang-files/kha-dictionary/output-400
+Moutput-400 72.29
+/home/script/lang-files/kha-dictionary/output-420
+Moutput-420 72.48
+/home/script/lang-files/kha-dictionary/output-425
+Moutput-425 70.25
+/home/script/lang-files/kha-dictionary/output-460
+Moutput-460 62.61
+/home/script/lang-files/kha-dictionary/output-67
+Moutput-67 75.73
+Counting on set kha-dictionary in directory /home/script/lang-files/kha-dictionary to langtests/results/kha-dictionary
+/home/script/lang-files/kha-dictionary/output-110
+/home/script/lang-files/kha-dictionary/output-142
+/home/script/lang-files/kha-dictionary/output-185
+/home/script/lang-files/kha-dictionary/output-192
+/home/script/lang-files/kha-dictionary/output-220
+/home/script/lang-files/kha-dictionary/output-23
+/home/script/lang-files/kha-dictionary/output-242
+/home/script/lang-files/kha-dictionary/output-281
+/home/script/lang-files/kha-dictionary/output-282
+/home/script/lang-files/kha-dictionary/output-336
+/home/script/lang-files/kha-dictionary/output-351
+/home/script/lang-files/kha-dictionary/output-35
+/home/script/lang-files/kha-dictionary/output-384
+/home/script/lang-files/kha-dictionary/output-388
+/home/script/lang-files/kha-dictionary/output-392
+/home/script/lang-files/kha-dictionary/output-400
+/home/script/lang-files/kha-dictionary/output-420
+/home/script/lang-files/kha-dictionary/output-425
+/home/script/lang-files/kha-dictionary/output-460
+/home/script/lang-files/kha-dictionary/output-67
+
+Testing ../tessdata_best/script and Latin on set kha-textbooks in directory /home/script/lang-files/kha-textbooks to ./langtests/results/kha-textbooks
+
+/home/script/lang-files/kha-textbooks/p11-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp11-ka_jingrioi 54.66
+/home/script/lang-files/kha-textbooks/p14-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp14-ka_jingrioi 31.76
+/home/script/lang-files/kha-textbooks/p22-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp22-ka_jingrioi 61.41
+/home/script/lang-files/kha-textbooks/p23-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp23-ka_jingrioi 52.81
+/home/script/lang-files/kha-textbooks/p32-ka_jingrioi
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp32-ka_jingrioi 56.13
+/home/script/lang-files/kha-textbooks/page11-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage11-Xii 43.51
+/home/script/lang-files/kha-textbooks/page12-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage12-Xii 44.97
+/home/script/lang-files/kha-textbooks/page14-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage14-Xii 42.34
+/home/script/lang-files/kha-textbooks/page15-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage15-Xii 49.13
+/home/script/lang-files/kha-textbooks/page21-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage21-Xii 35.34
+/home/script/lang-files/kha-textbooks/page25-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage25-Xii 49.37
+/home/script/lang-files/kha-textbooks/page26-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage26-Xii 41.09
+/home/script/lang-files/kha-textbooks/page31-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage31-Xii 48.74
+/home/script/lang-files/kha-textbooks/page36-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage36-Xii 42.89
+/home/script/lang-files/kha-textbooks/page71-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage71-Xii 62.62
+/home/script/lang-files/kha-textbooks/page78-Xii
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage78-Xii 64.27
+Counting on set kha-textbooks in directory /home/script/lang-files/kha-textbooks to langtests/results/kha-textbooks
+/home/script/lang-files/kha-textbooks/p11-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p14-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p22-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p23-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p32-ka_jingrioi
+/home/script/lang-files/kha-textbooks/page11-Xii
+/home/script/lang-files/kha-textbooks/page12-Xii
+/home/script/lang-files/kha-textbooks/page14-Xii
+/home/script/lang-files/kha-textbooks/page15-Xii
+/home/script/lang-files/kha-textbooks/page21-Xii
+/home/script/lang-files/kha-textbooks/page25-Xii
+/home/script/lang-files/kha-textbooks/page26-Xii
+/home/script/lang-files/kha-textbooks/page31-Xii
+/home/script/lang-files/kha-textbooks/page36-Xii
+/home/script/lang-files/kha-textbooks/page71-Xii
+/home/script/lang-files/kha-textbooks/page78-Xii
+RELEASE		TestSet		CharErrors	Accuracy	WordErrors	Accuracy	NonStopWErrors	Accuracy	TimeTaken
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													0.00s
+4_fast_Latin	kha-textbooks													0.00s
+4_best_int_Latin	kha-dictionary													0.00s
+4_best_int_Latin	kha-textbooks													0.00s
+4_best_Latin	kha-dictionary													0.00s
+4_best_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													310.78s
+4_fast_Latin	kha-textbooks													134.13s
+4_best_int_Latin	kha-dictionary													413.00s
+4_best_int_Latin	kha-textbooks													197.94s
+4_best_Latin	kha-dictionary	27052		25.43%		3232		51.13%		2108		47.80		1162.20s
+4_best_Latin	kha-textbooks	141		99.24%		21		99.44%		20		98.89		524.73s
+4_fast_Latin	kha-dictionary													153.97s
+4_fast_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary													12.76s
+4_fast_Latin	kha-textbooks													0.00s
+4_fast_Latin	kha-dictionary	27165		25.11%		3365		49.12%		2217		45.10		274.87s
+4_fast_Latin	kha-textbooks	412		97.77%		207		94.52%		173		90.43		131.12s
+4_best_int_Latin	kha-dictionary	27097		25.30%		3298		50.14%		2160		46.51		377.62s
+4_best_int_Latin	kha-textbooks	185		99.00%		55		98.54%		48		97.35		182.25s
+4_best_Latin	kha-dictionary	27074		25.36%		3283		50.36%		2148		46.81		1453.41s
+4_best_Latin	kha-textbooks	141		99.24%		21		99.44%		20		98.89		781.04s
+
+Testing ../tessdata_fast and kha on set kha-dictionary in directory /home/script/lang-files/kha-dictionary to ./langtests/results/kha-dictionary
+
+/home/script/lang-files/kha-dictionary/output-110
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-110 12.86
+/home/script/lang-files/kha-dictionary/output-142
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-142 12.08
+/home/script/lang-files/kha-dictionary/output-185
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-185 10.36
+/home/script/lang-files/kha-dictionary/output-192
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-192 11.21
+/home/script/lang-files/kha-dictionary/output-220
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-220 10.88
+/home/script/lang-files/kha-dictionary/output-23
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-23 10.06
+/home/script/lang-files/kha-dictionary/output-242
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-242 11.76
+/home/script/lang-files/kha-dictionary/output-281
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-281 10.28
+/home/script/lang-files/kha-dictionary/output-282
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-282 12.00
+/home/script/lang-files/kha-dictionary/output-336
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-336 11.18
+/home/script/lang-files/kha-dictionary/output-351
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-351 13.07
+/home/script/lang-files/kha-dictionary/output-35
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-35 11.76
+/home/script/lang-files/kha-dictionary/output-384
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-384 10.91
+/home/script/lang-files/kha-dictionary/output-388
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-388 12.09
+/home/script/lang-files/kha-dictionary/output-392
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-392 12.27
+/home/script/lang-files/kha-dictionary/output-400
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-400 12.76
+/home/script/lang-files/kha-dictionary/output-420
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-420 11.95
+/home/script/lang-files/kha-dictionary/output-425
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-425 11.47
+/home/script/lang-files/kha-dictionary/output-460
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-460 11.61
+/home/script/lang-files/kha-dictionary/output-67
+Failed to load any lstm-specific dictionaries for lang kha!!
+Moutput-67 12.82
+Counting on set kha-dictionary in directory /home/script/lang-files/kha-dictionary to langtests/results/kha-dictionary
+/home/script/lang-files/kha-dictionary/output-110
+/home/script/lang-files/kha-dictionary/output-142
+/home/script/lang-files/kha-dictionary/output-185
+/home/script/lang-files/kha-dictionary/output-192
+/home/script/lang-files/kha-dictionary/output-220
+/home/script/lang-files/kha-dictionary/output-23
+/home/script/lang-files/kha-dictionary/output-242
+/home/script/lang-files/kha-dictionary/output-281
+/home/script/lang-files/kha-dictionary/output-282
+/home/script/lang-files/kha-dictionary/output-336
+/home/script/lang-files/kha-dictionary/output-351
+/home/script/lang-files/kha-dictionary/output-35
+/home/script/lang-files/kha-dictionary/output-384
+/home/script/lang-files/kha-dictionary/output-388
+/home/script/lang-files/kha-dictionary/output-392
+/home/script/lang-files/kha-dictionary/output-400
+/home/script/lang-files/kha-dictionary/output-420
+/home/script/lang-files/kha-dictionary/output-425
+/home/script/lang-files/kha-dictionary/output-460
+/home/script/lang-files/kha-dictionary/output-67
+
+Testing ../tessdata_fast and kha on set kha-textbooks in directory /home/script/lang-files/kha-textbooks to ./langtests/results/kha-textbooks
+
+/home/script/lang-files/kha-textbooks/p11-ka_jingrioi
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp11-ka_jingrioi 8.65
+/home/script/lang-files/kha-textbooks/p14-ka_jingrioi
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp14-ka_jingrioi 5.59
+/home/script/lang-files/kha-textbooks/p22-ka_jingrioi
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp22-ka_jingrioi 8.37
+/home/script/lang-files/kha-textbooks/p23-ka_jingrioi
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp23-ka_jingrioi 8.27
+/home/script/lang-files/kha-textbooks/p32-ka_jingrioi
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mp32-ka_jingrioi 7.31
+/home/script/lang-files/kha-textbooks/page11-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage11-Xii 8.40
+/home/script/lang-files/kha-textbooks/page12-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage12-Xii 6.93
+/home/script/lang-files/kha-textbooks/page14-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage14-Xii 6.54
+/home/script/lang-files/kha-textbooks/page15-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage15-Xii 7.35
+/home/script/lang-files/kha-textbooks/page21-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage21-Xii 6.44
+/home/script/lang-files/kha-textbooks/page25-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage25-Xii 7.20
+/home/script/lang-files/kha-textbooks/page26-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage26-Xii 6.76
+/home/script/lang-files/kha-textbooks/page31-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage31-Xii 7.33
+/home/script/lang-files/kha-textbooks/page36-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage36-Xii 7.16
+/home/script/lang-files/kha-textbooks/page71-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage71-Xii 9.01
+/home/script/lang-files/kha-textbooks/page78-Xii
+Failed to load any lstm-specific dictionaries for lang kha!!
+Warning: Invalid resolution 0 dpi. Using 70 instead.
+Mpage78-Xii 8.56
+Counting on set kha-textbooks in directory /home/script/lang-files/kha-textbooks to langtests/results/kha-textbooks
+/home/script/lang-files/kha-textbooks/p11-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p14-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p22-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p23-ka_jingrioi
+/home/script/lang-files/kha-textbooks/p32-ka_jingrioi
+/home/script/lang-files/kha-textbooks/page11-Xii
+/home/script/lang-files/kha-textbooks/page12-Xii
+/home/script/lang-files/kha-textbooks/page14-Xii
+/home/script/lang-files/kha-textbooks/page15-Xii
+/home/script/lang-files/kha-textbooks/page21-Xii
+/home/script/lang-files/kha-textbooks/page25-Xii
+/home/script/lang-files/kha-textbooks/page26-Xii
+/home/script/lang-files/kha-textbooks/page31-Xii
+/home/script/lang-files/kha-textbooks/page36-Xii
+/home/script/lang-files/kha-textbooks/page71-Xii
+/home/script/lang-files/kha-textbooks/page78-Xii
+RELEASE		TestSet		CharErrors	Accuracy	WordErrors	Accuracy	NonStopWErrors	Accuracy	TimeTaken
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary													0.00s
+4_fast_kha	kha-textbooks													0.00s
+4_fast_kha	kha-dictionary	27402		24.46%		3638		45.00%		2477		38.66		266.97s
+4_fast_kha	kha-textbooks	792		95.70%		450		88.10%		373		79.37		124.11s
+4_fast_kha	kha-dictionary	27337		24.64%		3602		45.54%		2430		39.82		233.38s
+4_fast_kha	kha-textbooks	792		95.70%		450		88.10%		373		79.37		119.87s

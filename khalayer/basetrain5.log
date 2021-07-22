@@ -1,0 +1,206 @@
+Loaded file /home/script/tesseract/tesstutorial/khalayer/khalayer_checkpoint, unpacking...
+Successfully restored trainer from /home/script/tesseract/tesstutorial/khalayer/khalayer_checkpoint
+Loaded 16005/16005 lines (1-16005) of document /home/script/tesseract/tesstutorial/khatraineng/eng.Liberation_Serif.exp0.lstmf
+Loaded 3666/3666 lines (1-3666) of document /home/script/tesseract/tesstutorial/khaevaleng/eng.Liberation_Serif.exp0.lstmf
+At iteration 3770/50400/50400, Mean rms=0.138%, delta=0.028%, char train=0.075%, word train=0.214%, skip ratio=0%,  New worst char error = 0.075 wrote checkpoint.
+
+At iteration 3773/50500/50500, Mean rms=0.137%, delta=0.024%, char train=0.071%, word train=0.204%, skip ratio=0%,  New worst char error = 0.071 wrote checkpoint.
+
+At iteration 3779/50600/50600, Mean rms=0.145%, delta=0.047%, char train=0.135%, word train=0.42%, skip ratio=0%,  New worst char error = 0.135 wrote checkpoint.
+
+At iteration 3781/50700/50700, Mean rms=0.148%, delta=0.064%, char train=0.183%, word train=0.533%, skip ratio=0%,  New worst char error = 0.183 wrote checkpoint.
+
+At iteration 3783/50800/50800, Mean rms=0.147%, delta=0.062%, char train=0.183%, word train=0.539%, skip ratio=0%,  New worst char error = 0.183 wrote checkpoint.
+
+At iteration 3790/50900/50900, Mean rms=0.154%, delta=0.07%, char train=0.206%, word train=0.586%, skip ratio=0%,  New worst char error = 0.206 wrote checkpoint.
+
+At iteration 3792/51000/51000, Mean rms=0.157%, delta=0.071%, char train=0.206%, word train=0.585%, skip ratio=0%,  New worst char error = 0.206 wrote checkpoint.
+
+At iteration 3797/51100/51100, Mean rms=0.161%, delta=0.075%, char train=0.224%, word train=0.628%, skip ratio=0%,  New worst char error = 0.224 wrote checkpoint.
+
+At iteration 3800/51200/51200, Mean rms=0.158%, delta=0.069%, char train=0.197%, word train=0.557%, skip ratio=0%,  New worst char error = 0.197 wrote checkpoint.
+
+At iteration 3801/51300/51300, Mean rms=0.155%, delta=0.066%, char train=0.187%, word train=0.534%, skip ratio=0%,  New worst char error = 0.187 wrote checkpoint.
+
+At iteration 3802/51400/51400, Mean rms=0.153%, delta=0.064%, char train=0.184%, word train=0.527%, skip ratio=0%,  New worst char error = 0.184 wrote checkpoint.
+
+At iteration 3803/51500/51500, Mean rms=0.15%, delta=0.063%, char train=0.181%, word train=0.519%, skip ratio=0%,  New worst char error = 0.181 wrote checkpoint.
+
+At iteration 3805/51600/51600, Mean rms=0.145%, delta=0.041%, char train=0.122%, word train=0.318%, skip ratio=0%,  New worst char error = 0.122 wrote checkpoint.
+
+At iteration 3810/51700/51700, Mean rms=0.146%, delta=0.029%, char train=0.087%, word train=0.253%, skip ratio=0%,  New worst char error = 0.087 wrote checkpoint.
+
+At iteration 3810/51800/51800, Mean rms=0.144%, delta=0.027%, char train=0.083%, word train=0.238%, skip ratio=0%,  New worst char error = 0.083 wrote checkpoint.
+
+At iteration 3813/51900/51900, Mean rms=0.139%, delta=0.021%, char train=0.065%, word train=0.203%, skip ratio=0%,  New worst char error = 0.065 wrote checkpoint.
+
+At iteration 3815/52000/52000, Mean rms=0.139%, delta=0.021%, char train=0.069%, word train=0.221%, skip ratio=0%,  New worst char error = 0.069 wrote checkpoint.
+
+At iteration 3816/52100/52100, Mean rms=0.135%, delta=0.017%, char train=0.051%, word train=0.169%, skip ratio=0%,  New worst char error = 0.051 wrote checkpoint.
+
+At iteration 3816/52200/52200, Mean rms=0.132%, delta=0.014%, char train=0.044%, word train=0.137%, skip ratio=0%,  New worst char error = 0.044 wrote checkpoint.
+
+At iteration 3817/52300/52300, Mean rms=0.132%, delta=0.014%, char train=0.044%, word train=0.139%, skip ratio=0%,  New worst char error = 0.044 wrote checkpoint.
+
+At iteration 3818/52400/52400, Mean rms=0.134%, delta=0.016%, char train=0.048%, word train=0.147%, skip ratio=0%,  New worst char error = 0.048 wrote checkpoint.
+
+At iteration 3819/52500/52500, Mean rms=0.135%, delta=0.016%, char train=0.045%, word train=0.145%, skip ratio=0%,  New worst char error = 0.045 wrote checkpoint.
+
+At iteration 3821/52600/52600, Mean rms=0.133%, delta=0.015%, char train=0.043%, word train=0.14%, skip ratio=0%,  New worst char error = 0.043 wrote checkpoint.
+
+At iteration 3821/52700/52700, Mean rms=0.128%, delta=0.01%, char train=0.03%, word train=0.093%, skip ratio=0%,  wrote checkpoint.
+
+At iteration 3822/52800/52800, Mean rms=0.129%, delta=0.011%, char train=0.031%, word train=0.097%, skip ratio=0%,  New worst char error = 0.031 wrote checkpoint.
+
+2 Percent improvement time=2474, best error was 2.039 @ 1348
+At iteration 3822/52900/52900, Mean rms=0.128%, delta=0.009%, char train=0.025%, word train=0.079%, skip ratio=0%,  New best char error = 0.025 wrote best model:/home/script/tesseract/tesstutorial/khalayer/khalayer0.025_3822.checkpoint wrote checkpoint.
+
+2 Percent improvement time=2474, best error was 2.039 @ 1348
+At iteration 3822/53000/53000, Mean rms=0.124%, delta=0.008%, char train=0.021%, word train=0.064%, skip ratio=0%,  New best char error = 0.021 wrote best model:/home/script/tesseract/tesstutorial/khalayer/khalayer0.021_3822.checkpoint wrote checkpoint.
+
+At iteration 3826/53100/53100, Mean rms=0.125%, delta=0.01%, char train=0.025%, word train=0.08%, skip ratio=0%,  New worst char error = 0.025 wrote checkpoint.
+
+At iteration 3827/53200/53200, Mean rms=0.127%, delta=0.01%, char train=0.028%, word train=0.086%, skip ratio=0%,  New worst char error = 0.028 wrote checkpoint.
+
+At iteration 3828/53300/53300, Mean rms=0.127%, delta=0.01%, char train=0.028%, word train=0.086%, skip ratio=0%,  New worst char error = 0.028 wrote checkpoint.
+
+At iteration 3829/53400/53400, Mean rms=0.127%, delta=0.01%, char train=0.028%, word train=0.102%, skip ratio=0%,  New worst char error = 0.028 wrote checkpoint.
+
+At iteration 3831/53500/53500, Mean rms=0.128%, delta=0.011%, char train=0.032%, word train=0.132%, skip ratio=0%,  New worst char error = 0.032 wrote checkpoint.
+
+At iteration 3832/53600/53600, Mean rms=0.127%, delta=0.011%, char train=0.03%, word train=0.127%, skip ratio=0%,  New worst char error = 0.03 wrote checkpoint.
+
+At iteration 3832/53700/53700, Mean rms=0.127%, delta=0.011%, char train=0.032%, word train=0.135%, skip ratio=0%,  New worst char error = 0.032 wrote checkpoint.
+
+At iteration 3837/53800/53800, Mean rms=0.13%, delta=0.017%, char train=0.05%, word train=0.172%, skip ratio=0%,  New worst char error = 0.05 wrote checkpoint.
+
+At iteration 3840/53900/53900, Mean rms=0.131%, delta=0.019%, char train=0.052%, word train=0.182%, skip ratio=0%,  New worst char error = 0.052 wrote checkpoint.
+
+At iteration 3841/54000/54000, Mean rms=0.131%, delta=0.019%, char train=0.055%, word train=0.199%, skip ratio=0%,  New worst char error = 0.055 wrote checkpoint.
+
+At iteration 3842/54100/54100, Mean rms=0.13%, delta=0.017%, char train=0.05%, word train=0.186%, skip ratio=0%,  New worst char error = 0.05 wrote checkpoint.
+
+At iteration 3845/54200/54200, Mean rms=0.133%, delta=0.019%, char train=0.056%, word train=0.203%, skip ratio=0%,  New worst char error = 0.056 wrote checkpoint.
+
+At iteration 3848/54300/54300, Mean rms=0.134%, delta=0.02%, char train=0.059%, word train=0.221%, skip ratio=0%,  New worst char error = 0.059 wrote checkpoint.
+
+At iteration 3849/54400/54400, Mean rms=0.133%, delta=0.017%, char train=0.056%, word train=0.203%, skip ratio=0%,  New worst char error = 0.056 wrote checkpoint.
+
+At iteration 3850/54500/54500, Mean rms=0.133%, delta=0.016%, char train=0.052%, word train=0.168%, skip ratio=0%,  New worst char error = 0.052 wrote checkpoint.
+
+At iteration 3852/54600/54600, Mean rms=0.133%, delta=0.018%, char train=0.056%, word train=0.185%, skip ratio=0%,  New worst char error = 0.056 wrote checkpoint.
+
+At iteration 3853/54700/54700, Mean rms=0.134%, delta=0.019%, char train=0.059%, word train=0.195%, skip ratio=0%,  New worst char error = 0.059 wrote checkpoint.
+
+At iteration 3854/54800/54800, Mean rms=0.131%, delta=0.012%, char train=0.041%, word train=0.156%, skip ratio=0%,  New worst char error = 0.041 wrote checkpoint.
+
+At iteration 3855/54900/54900, Mean rms=0.129%, delta=0.011%, char train=0.042%, word train=0.153%, skip ratio=0%,  New worst char error = 0.042 wrote checkpoint.
+
+At iteration 3857/55000/55000, Mean rms=0.13%, delta=0.012%, char train=0.043%, word train=0.141%, skip ratio=0%,  New worst char error = 0.043 wrote checkpoint.
+
+At iteration 3859/55100/55100, Mean rms=0.129%, delta=0.013%, char train=0.044%, word train=0.141%, skip ratio=0%,  New worst char error = 0.044 wrote checkpoint.
+
+At iteration 3861/55200/55200, Mean rms=0.125%, delta=0.011%, char train=0.04%, word train=0.128%, skip ratio=0%,  New worst char error = 0.04 wrote checkpoint.
+
+At iteration 3862/55300/55300, Mean rms=0.125%, delta=0.011%, char train=0.04%, word train=0.112%, skip ratio=0%,  New worst char error = 0.04 wrote checkpoint.
+
+At iteration 3864/55400/55400, Mean rms=0.126%, delta=0.012%, char train=0.04%, word train=0.115%, skip ratio=0%,  New worst char error = 0.04 wrote checkpoint.
+
+At iteration 3870/55500/55500, Mean rms=0.129%, delta=0.017%, char train=0.057%, word train=0.154%, skip ratio=0%,  New worst char error = 0.057 wrote checkpoint.
+
+At iteration 3871/55600/55600, Mean rms=0.128%, delta=0.016%, char train=0.052%, word train=0.132%, skip ratio=0%,  New worst char error = 0.052 wrote checkpoint.
+
+At iteration 3872/55700/55700, Mean rms=0.127%, delta=0.017%, char train=0.062%, word train=0.147%, skip ratio=0%,  New worst char error = 0.062 wrote checkpoint.
+
+At iteration 3877/55800/55800, Mean rms=0.129%, delta=0.021%, char train=0.07%, word train=0.163%, skip ratio=0%,  New worst char error = 0.07 wrote checkpoint.
+
+At iteration 3880/55900/55900, Mean rms=0.131%, delta=0.022%, char train=0.072%, word train=0.167%, skip ratio=0%,  New worst char error = 0.072 wrote checkpoint.
+
+At iteration 3881/56000/56000, Mean rms=0.13%, delta=0.021%, char train=0.069%, word train=0.16%, skip ratio=0%,  New worst char error = 0.069 wrote checkpoint.
+
+At iteration 3884/56100/56100, Mean rms=0.133%, delta=0.024%, char train=0.074%, word train=0.167%, skip ratio=0%,  New worst char error = 0.074 wrote checkpoint.
+
+At iteration 3887/56200/56200, Mean rms=0.136%, delta=0.029%, char train=0.084%, word train=0.164%, skip ratio=0%,  New worst char error = 0.084 wrote checkpoint.
+
+At iteration 3893/56300/56300, Mean rms=0.14%, delta=0.035%, char train=0.101%, word train=0.23%, skip ratio=0%,  New worst char error = 0.101 wrote checkpoint.
+
+At iteration 3893/56400/56400, Mean rms=0.138%, delta=0.033%, char train=0.098%, word train=0.221%, skip ratio=0%,  New worst char error = 0.098 wrote checkpoint.
+
+At iteration 3896/56500/56500, Mean rms=0.138%, delta=0.03%, char train=0.082%, word train=0.188%, skip ratio=0%,  New worst char error = 0.082 wrote checkpoint.
+
+At iteration 3897/56600/56600, Mean rms=0.139%, delta=0.033%, char train=0.091%, word train=0.221%, skip ratio=0%,  New worst char error = 0.091 wrote checkpoint.
+
+At iteration 3899/56700/56700, Mean rms=0.141%, delta=0.032%, char train=0.081%, word train=0.2%, skip ratio=0%,  New worst char error = 0.081 wrote checkpoint.
+
+At iteration 3901/56800/56800, Mean rms=0.14%, delta=0.029%, char train=0.072%, word train=0.187%, skip ratio=0%,  New worst char error = 0.072 wrote checkpoint.
+
+At iteration 3904/56900/56900, Mean rms=0.142%, delta=0.03%, char train=0.076%, word train=0.201%, skip ratio=0%,  New worst char error = 0.076 wrote checkpoint.
+
+At iteration 3907/57000/57000, Mean rms=0.143%, delta=0.032%, char train=0.082%, word train=0.213%, skip ratio=0%,  New worst char error = 0.082 wrote checkpoint.
+
+At iteration 3907/57100/57100, Mean rms=0.139%, delta=0.028%, char train=0.075%, word train=0.21%, skip ratio=0%,  New worst char error = 0.075 wrote checkpoint.
+
+At iteration 3908/57200/57200, Mean rms=0.136%, delta=0.022%, char train=0.061%, word train=0.209%, skip ratio=0%,  New worst char error = 0.061 wrote checkpoint.
+
+At iteration 3910/57300/57300, Mean rms=0.132%, delta=0.016%, char train=0.043%, word train=0.149%, skip ratio=0%,  New worst char error = 0.043 wrote checkpoint.
+
+At iteration 3913/57400/57400, Mean rms=0.134%, delta=0.019%, char train=0.052%, word train=0.178%, skip ratio=0%,  New worst char error = 0.052 wrote checkpoint.
+
+At iteration 3914/57500/57500, Mean rms=0.132%, delta=0.017%, char train=0.053%, word train=0.184%, skip ratio=0%,  New worst char error = 0.053 wrote checkpoint.
+
+At iteration 3915/57600/57600, Mean rms=0.131%, delta=0.013%, char train=0.048%, word train=0.176%, skip ratio=0%,  New worst char error = 0.048 wrote checkpoint.
+
+At iteration 3915/57700/57700, Mean rms=0.129%, delta=0.012%, char train=0.044%, word train=0.163%, skip ratio=0%,  New worst char error = 0.044 wrote checkpoint.
+
+At iteration 3915/57800/57800, Mean rms=0.127%, delta=0.011%, char train=0.044%, word train=0.153%, skip ratio=0%,  New worst char error = 0.044 wrote checkpoint.
+
+At iteration 3917/57900/57900, Mean rms=0.125%, delta=0.009%, char train=0.041%, word train=0.142%, skip ratio=0%,  New worst char error = 0.041 wrote checkpoint.
+
+At iteration 3919/58000/58000, Mean rms=0.124%, delta=0.008%, char train=0.036%, word train=0.134%, skip ratio=0%,  New worst char error = 0.036 wrote checkpoint.
+
+At iteration 3925/58100/58100, Mean rms=0.13%, delta=0.012%, char train=0.046%, word train=0.182%, skip ratio=0%,  New worst char error = 0.046 wrote checkpoint.
+
+At iteration 3928/58200/58200, Mean rms=0.133%, delta=0.014%, char train=0.053%, word train=0.208%, skip ratio=0%,  New worst char error = 0.053 wrote checkpoint.
+
+At iteration 3929/58300/58300, Mean rms=0.133%, delta=0.014%, char train=0.056%, word train=0.21%, skip ratio=0%,  New worst char error = 0.056 wrote checkpoint.
+
+At iteration 3931/58400/58400, Mean rms=0.131%, delta=0.013%, char train=0.049%, word train=0.185%, skip ratio=0%,  New worst char error = 0.049 wrote checkpoint.
+
+At iteration 3931/58500/58500, Mean rms=0.13%, delta=0.013%, char train=0.045%, word train=0.168%, skip ratio=0%,  New worst char error = 0.045 wrote checkpoint.
+
+At iteration 3935/58600/58600, Mean rms=0.131%, delta=0.015%, char train=0.046%, word train=0.163%, skip ratio=0%,  New worst char error = 0.046 wrote checkpoint.
+
+At iteration 3940/58700/58700, Mean rms=0.136%, delta=0.021%, char train=0.055%, word train=0.212%, skip ratio=0%,  New worst char error = 0.055 wrote checkpoint.
+
+At iteration 3940/58800/58800, Mean rms=0.136%, delta=0.021%, char train=0.054%, word train=0.219%, skip ratio=0%,  New worst char error = 0.054 wrote checkpoint.
+
+At iteration 3942/58900/58900, Mean rms=0.136%, delta=0.02%, char train=0.05%, word train=0.214%, skip ratio=0%,  New worst char error = 0.05 wrote checkpoint.
+
+At iteration 3943/59000/59000, Mean rms=0.135%, delta=0.02%, char train=0.051%, word train=0.305%, skip ratio=0%,  New worst char error = 0.051 wrote checkpoint.
+
+At iteration 3947/59100/59100, Mean rms=0.133%, delta=0.02%, char train=0.047%, word train=0.274%, skip ratio=0%,  New worst char error = 0.047 wrote checkpoint.
+
+At iteration 3949/59200/59200, Mean rms=0.134%, delta=0.028%, char train=0.078%, word train=0.247%, skip ratio=0%,  New worst char error = 0.078 wrote checkpoint.
+
+At iteration 3953/59300/59300, Mean rms=0.136%, delta=0.029%, char train=0.079%, word train=0.269%, skip ratio=0%,  New worst char error = 0.079 wrote checkpoint.
+
+At iteration 3956/59400/59400, Mean rms=0.137%, delta=0.03%, char train=0.082%, word train=0.278%, skip ratio=0%,  New worst char error = 0.082 wrote checkpoint.
+
+At iteration 3959/59500/59500, Mean rms=0.139%, delta=0.032%, char train=0.086%, word train=0.294%, skip ratio=0%,  New worst char error = 0.086 wrote checkpoint.
+
+At iteration 3960/59600/59600, Mean rms=0.138%, delta=0.03%, char train=0.084%, word train=0.285%, skip ratio=0%,  New worst char error = 0.084 wrote checkpoint.
+
+At iteration 3962/59700/59700, Mean rms=0.134%, delta=0.025%, char train=0.078%, word train=0.248%, skip ratio=0%,  New worst char error = 0.078 wrote checkpoint.
+
+At iteration 3965/59800/59800, Mean rms=0.135%, delta=0.027%, char train=0.085%, word train=0.261%, skip ratio=0%,  New worst char error = 0.085 wrote checkpoint.
+
+At iteration 3965/59900/59900, Mean rms=0.133%, delta=0.027%, char train=0.084%, word train=0.252%, skip ratio=0%,  New worst char error = 0.084 wrote checkpoint.
+
+At iteration 3966/60000/60000, Mean rms=0.134%, delta=0.032%, char train=0.101%, word train=0.183%, skip ratio=0%,  New worst char error = 0.101 wrote checkpoint.
+
+At iteration 3968/60100/60100, Mean rms=0.134%, delta=0.031%, char train=0.098%, word train=0.168%, skip ratio=0%,  New worst char error = 0.098 wrote checkpoint.
+
+At iteration 3969/60200/60200, Mean rms=0.131%, delta=0.021%, char train=0.06%, word train=0.166%, skip ratio=0%,  New worst char error = 0.06 wrote checkpoint.
+
+At iteration 3970/60300/60300, Mean rms=0.129%, delta=0.019%, char train=0.058%, word train=0.141%, skip ratio=0%,  New worst char error = 0.058 wrote checkpoint.
+
