@@ -2,7 +2,6 @@
 Khasi-ocr is a project to create OCR model for khasi language. tesseract-ocr is used for LSTM layer training. 
 
 <pre>
-tesseract-ocr: v4.1
 base model: eng.traineddata
 output model: kha.traineddata(fast model)
 fonts: Liberation Serif
