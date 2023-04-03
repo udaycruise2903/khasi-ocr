@@ -11,7 +11,7 @@ UNLV test result: CER = 4.3 (academic textbooks), CER = ~76.5 (dictionary)
 </pre>
 
 ### Contributors
-[Uday Kiran N](https://github.com/udaycruise2903), [Akhilesh Kakolu Ramarao](https://github.com/akki2825)
+[Uday Kiran Nagineni](https://github.com/udaycruise2903), [Akhilesh Kakolu Ramarao](https://github.com/akki2825)
 
 ### Improvements
 <ol>
